@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "rootDir": "src",
+        "outDir": "build",
+        "lib": ["DOM", "ES2022"],
+        "target": "ES2022",
+        "skipLibCheck": true,
+        "strict": true,
+        "noEmit": true,
+        "allowUmdGlobalAccess": true,
+        "moduleResolution": "Bundler",
+        "esModuleInterop": true,
+        "jsx": "react-jsx" // Enable JSX support
+
+    }
+}
